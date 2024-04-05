@@ -3,22 +3,29 @@
   Email: Josh.Toloza@gmail.com
 </p>
 
-Summary
+<h2>Summary</h2>
+<p>
 I am an Information Systems Specialist with a background in teaching, skilled in a variety of programming languages and tools. With experience in developing automation solutions and optimizing workflows, I am passionate about leveraging technology to drive business success.
+</p>
+  
 
-Skills
-Languages: HTML, CSS, JavaScript, Java, VBA Excel
-Tools & Technologies: iPaas software, REST APIs, Zoom, Google applications
-Project Management
-Problem Solving
-Technical Support
-Team Collaboration
+<h2>Skills</h2>
+<p>
+  Languages: HTML, CSS, JavaScript, Java, VBA Excel<br>
+  Tools & Technologies: iPaas software, REST APIs
+</p>
 
-Work Experience
-Information Systems Specialist at Securitas
+<h2>Work Experience</h2>
+<h3>Information Systems Specialist at Securitas</h3>
+
+<p>
+  <b>Location:</b> Mountain View, CA <br>
+  <b>Duration:</b> March 2023 - Present <br>
+  As an Information Systems Specialist at Securitas, I have been involved in various projects aimed at enhancing operational efficiency and security measures. Some key responsibilities and achievements include:
+</p>
 Location: Mountain View, CA
 Duration: March 2023–Present
-As an Information Systems Specialist at Securitas, I have been involved in various projects aimed at enhancing operational efficiency and security measures. Some key responsibilities and achievements include:
+
 
 Designing and building an intranet website housing emergency procedures, contacts, and request forms using HTML, CSS Flexbox/Grid, and JavaScript.
 Implementing automation and integrated processes to streamline user provisioning, form submissions, request approvals, and analytics, resulting in a [percentage] increase in efficiency.
