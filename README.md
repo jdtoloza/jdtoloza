@@ -1,4 +1,4 @@
-Contact Information
+<h2>Contact Information</h2>
 Location: San Jose, CA
 Email: Josh.Toloza@gmail.com
 
