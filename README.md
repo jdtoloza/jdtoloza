@@ -1,6 +1,7 @@
 <h2>Contact Information</h2>
-<p>Location: San Jose, CA</p>
-<p>Email: Josh.Toloza@gmail.com</p>
+<p>Location: San Jose, CA <br>
+  Email: Josh.Toloza@gmail.com
+</p>
 
 Summary
 I am an Information Systems Specialist with a background in teaching, skilled in a variety of programming languages and tools. With experience in developing automation solutions and optimizing workflows, I am passionate about leveraging technology to drive business success.
