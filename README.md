@@ -22,18 +22,20 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   <b>Location:</b> Mountain View, CA <br>
   <b>Duration:</b> March 2023 - Present <br>
   As an Information Systems Specialist at Securitas, I have been involved in various projects aimed at enhancing operational efficiency and security measures. Some key responsibilities and achievements include:
-</p>
-Location: Mountain View, CA
-Duration: March 2023–Present
-
-
-Designing and building an intranet website housing emergency procedures, contacts, and request forms using HTML, CSS Flexbox/Grid, and JavaScript.
+  <ul>
+    <li>Designing and building an intranet website housing emergency procedures, contacts, and request forms using HTML, CSS Flexbox/Grid, and JavaScript.</li>
+  </ul>
+  
 Implementing automation and integrated processes to streamline user provisioning, form submissions, request approvals, and analytics, resulting in a [percentage] increase in efficiency.
 Leading the migration of physical audit, request, and report processes to a digital format, reducing processing time by [percentage].
 Developing macros to optimize report-generation procedures, improving efficiency and accuracy in data analysis.
 Collaborating with global teams across Asia-Pacific, Europe, and North America to complete projects directed by senior management.
 Managing the implementation of new security software across US and Canada sites, ensuring compliance with company standards.
 Providing technical support and maintenance for security mobile devices, computers, card readers, applications, and printers.
+
+  
+</p>
+
 Teacher at Jefferson Union High School
 Location: Daly City, CA
 Department: Physical Education
