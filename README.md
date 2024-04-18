@@ -13,7 +13,7 @@ I am an Information Systems Specialist with a background in teaching, skilled in
 <p>
   Languages: HTML, CSS, JavaScript, Java, VBA Excel<br>
   Frameworks: Bootstrap <br>
-  Tools & Technologies: iPaas software, REST APIs
+  Tools & Technologies: iPaas software, REST APIs, JIRA, RDBMS, CRM
 </p>
 
 <h2>Work Experience</h2>
