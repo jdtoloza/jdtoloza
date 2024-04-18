@@ -24,13 +24,13 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   <b>Duration:</b> March 2023 - Present <br>
   As an Information Systems Specialist at Securitas, I have been involved in various projects aimed at enhancing operational efficiency and security measures. Some key responsibilities and achievements include:
   <ul>
-    <li>Designing and building an intranet website housing emergency procedures, contacts, and request forms using HTML, CSS Flexbox/Grid, and JavaScript.</li>
+    <li>Designed and built an intranet website containing an ecosystem of emergency procedures, contacts, and request forms with HTML, CSS Flexbox / Grid, and Javascript.</li>
     <li>Developed and implemented automation and integrated processes streamlining user provisioning, form submissions, request approvals, and analytics using iPaas software and REST Apis.</li>
     <li>Helped pioneer the migration of all physical processes of audits, requests, and reports to a digital format, standardizing the process across the US/CA region.</li>
     <li>Developed macros to optimize report-generation procedures, increasing efficiency and accuracy in data analysis.</li>
-    <li>Collaborated with global teams including sites from Asia-Pacific, Europe, and North America to complete projects directed by senior management. </li>
-    <li>Designed, built, and managed the implementation of new security software across all US / Canada sites. </li>
-    <li>Provided technical support and maintenance for security mobile devices, computers, card readers, applications, and printers. </li>
+    <li>Collaborated with global teams including sites from Asia-Pacific, Europe, and North America to complete projects directed by senior management.</li>
+    <li>Designed, built, and managed the implementation of new security software across all US / Canada sites.</li>
+    <li>Provided technical support and maintenance for security mobile devices, computers, card readers, applications, and printers.</li>
   </ul>
 </p>
 <h3>Teacher at Jefferson Union High School</h3>
@@ -47,7 +47,12 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   </ul>
 </p>
 
-
+<h4>Education and Certifications</h4>
+<ul>
+  <li>B.S. Computer Science | Oregon State University - 2025 </li>
+  <li>Teaching Credential | San Jose State University - 2019</li>
+  <li>B.S. Kinesiology | San Jose State University - 2016</li>
+</ul>
 
 
 
