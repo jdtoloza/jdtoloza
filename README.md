@@ -5,7 +5,7 @@
 
 <h2>Summary</h2>
 <p>
-I am an Information Systems Specialist with a background in teaching, skilled in a variety of programming languages and tools. With experience in developing automation solutions and optimizing workflows, I am passionate about leveraging technology to drive business success.
+I am an Information Systems Specialist with a background in teaching skilled in a variety of programming languages and tools. I am dedicated to utilizing technology to enhance the learning and user experience, ensuring it is both accessible and enjoyable. My focus lies in developing automation solutions and streamlining workflows to facilitate a smoother and effortless process.
 </p>
   
 
