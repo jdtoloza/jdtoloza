@@ -37,7 +37,7 @@ I am an Information Systems Specialist with a background in teaching, skilled in
 <p>
   <b>Location:</b> Daly City, CA
   <b>Department:</b> Physical Education
-  <b>Duration:</b> 2019-2021
+  <b>Duration:</b> 2019-2021 <br>
   As a Teacher at Jefferson Union High School, I played a key role in:
   <ul>
     <li>Adapting curriculum instructions and assessments for virtual learning environment during a global crisis, ensuring continued student engagement and learning.</li>
