@@ -25,12 +25,12 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   As an Information Systems Specialist at Securitas, I have been involved in various projects aimed at enhancing operational efficiency and security measures. Some key responsibilities and achievements include:
   <ul>
     <li>Designed and built an intranet website containing an ecosystem of emergency procedures, contacts, and request forms with HTML, CSS Flexbox / Grid, and Javascript.</li>
-    <li>Developed and implemented automation and integrated processes streamlining user provisioning, form submissions, request approvals, and analytics using iPaas software and REST Apis.</li>
-    <li>Helped pioneer the migration of all physical processes of audits, requests, and reports to a digital format, standardizing the process across the US/CA region.</li>
-    <li>Developed macros to optimize report-generation procedures, increasing efficiency and accuracy in data analysis.</li>
-    <li>Collaborated with global teams including sites from Asia-Pacific, Europe, and North America to complete projects directed by senior management.</li>
+    <li>Designed and developed automated and integrated processes streamlining user provisioning, form submissions, approval requests, and analytics with a combination of Javascript, iPaas software, and REST Apis.</li>
+    <li>Helped pioneer the migration of all physical processes of audits, requests, and reports to a digital format, standardizing the process across the NA region.</li>
+    <li>Designed and developed macros to automate excel reports, increasing efficiency and accuracy in data analysis.</li>
+    <li>Collaborated with global teams from Asia-Pacific, Europe, and North America to complete projects directed by senior management.</li>
     <li>Designed, built, and managed the implementation of new security software across all US / Canada sites.</li>
-    <li>Provided technical support and maintenance for security mobile devices, computers, card readers, applications, and printers.</li>
+    <li>Provided technical support and maintenance for software applications, mobile devices, computer hardware,and embedded systems (printers, card readers)</li>
   </ul>
 </p>
 <h3>Teacher at Jefferson Union High School</h3>
@@ -38,11 +38,11 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   <b>Location:</b> Daly City, CA
   <b>Department:</b> Physical Education
   <b>Duration:</b> 2019-2021
-  As a Teacher at Jefferson Union High School, I played a key role in adapting curriculum instructions and assessments for a virtual learning environment during a global crisis. Some key responsibilities and achievements include:]
+  As a Teacher at Jefferson Union High School, I played a key role in :
   <ul>
     <li>Adapting curriculum instructions and assessments for virtual learning environment during a global crisis, ensuring continued student engagement and learning.</li>
     <li>Monitoring, instructing, and evaluating Health and Physical Education classes of 300+ students in person and through virtual classrooms.</li>
-    <li>Designing and implementing flexible learning plans tailored to students' needs, resulting in [percentage] improvement in student performance.</li>
+    <li>Designing and implementing flexible learning plans tailored to students' needs, resulting in improvement in student performance.</li>
     <li>Spearheading the development and practice of diverse training methods to foster collaborative and safe learning environments.</li>
   </ul>
 </p>
