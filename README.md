@@ -24,12 +24,12 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   <b>Duration:</b> March 2023 - Present <br>
   As an Information Systems Specialist at Securitas, I have been involved in various projects aimed at enhancing operational efficiency and security measures. Some key responsibilities and achievements include:
   <ul>
-    <li>Designed and built an intranet website containing an ecosystem of emergency procedures, contacts, and request forms with HTML, CSS Flexbox / Grid, and Javascript.</li>
-    <li>Designed and developed automated and integrated processes streamlining user provisioning, form submissions, approval requests, and analytics with a combination of Javascript, iPaas software, and REST Apis.</li>
+    <li>Designed and developed an intranet website containing an ecosystem of emergency procedures, contacts, and request forms with HTML, CSS Flexbox / Grid, and Javascript.</li>
+    <li>Conceptualized and engineered automated processes and integrations with 3rd party engineering teams to streamline user provisioning, form submissions, approval requests, and analytics with a combination of Javascript, iPaas software, and REST Apis.</li>
     <li>Helped pioneer the migration of all physical processes of audits, requests, and reports to a digital format, standardizing the process across the NA region.</li>
     <li>Designed and developed macros to automate excel reports, increasing efficiency and accuracy in data analysis.</li>
     <li>Collaborated with global teams from Asia-Pacific, Europe, and North America to complete projects directed by senior management.</li>
-    <li>Designed, built, and managed the implementation of new security software across all US / Canada sites.</li>
+    <li>Planned and executed the implementation of new security software across all US / Canada sites.</li>
     <li>Provided technical support and maintenance for software applications, mobile devices, computer hardware,and embedded systems (printers, card readers)</li>
   </ul>
 </p>
