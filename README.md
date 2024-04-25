@@ -51,10 +51,10 @@ I am an Information Systems Specialist with a background in teaching, skilled in
 <h3>Global Badge Supply Tracking System</h3>
 <ul>
   <li>Designed and developed a ticketing system to allow admins to track badge supply requests and streamline the process of shipping out supplies.</li>
-  <li>Created an automated process that updates site inventory real-time and sends notifications depending on level of stock</li>
+  <li>Created an automated process updating site inventory real-time and sends email notifications depending on level of stock</li>
 </ul>
 
-<h5>Intranet Website resource for post orders</h5>
+<h3>Intranet Website resource for post orders</h3>
 <ul>
   <li>Consolidated multiple post order resources into a main hub, enhancing and optimizing the user experience of gathering data during emergency responses and crisis management</li>
 </ul>
