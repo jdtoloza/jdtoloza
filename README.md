@@ -27,7 +27,6 @@ I am an Information Systems Specialist with a background in teaching, skilled in
     <li>Designed and developed an intranet website containing an ecosystem of emergency procedures, contacts, and request forms with HTML, CSS Flexbox / Grid, and Javascript.</li>
     <li>Built automated processes and integrations with 3rd party engineering teams to streamline user provisioning, form submissions, approval requests, and analytics with a combination of Javascript, iPaas software, and REST Apis.</li>
     <li>Troubleshoot and refactored different website components, system integrations, and databases</li>
-
     <li>Helped pioneer the migration of all physical processes of audits, requests, and reports to a digital format, standardizing the process across the NA region.</li>
     <li>Implemented advanced excel macros to automate reports, increasing efficiency and accuracy in data analysis.</li>
     <li>Collaborated with global teams from Asia-Pacific, Europe, and North America to complete projects directed by senior management.</li>
@@ -49,15 +48,8 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   </ul>
 </p>
 
-<h4>Education and Certifications</h4>
-<ul>
-  <li>B.S. Computer Science | Oregon State University - 2025 </li>
-  <li>Teaching Credential | San Jose State University - 2019</li>
-  <li>B.S. Kinesiology | San Jose State University - 2016</li>
-</ul>
-
-<h4>Projects</h4>
-<h5>Global Badge Supply Tracking System</h5>
+<h2>Projects</h2>
+<h3>Global Badge Supply Tracking System</h3>
 <ul>
   <li>Designed and developed a ticketing system to allow admins to track badge supply requests and streamline the process of shipping out supplies.</li>
   <li>Created an automated process that updates site inventory real-time and sends notifications depending on level of stock</li>
@@ -67,6 +59,15 @@ I am an Information Systems Specialist with a background in teaching, skilled in
 <ul>
   <li>Consolidated multiple post order resources into a main hub, enhancing and optimizing the user experience of gathering data during emergency responses and crisis management</li>
 </ul>
+
+
+<h4>Education and Certifications</h4>
+<ul>
+  <li>B.S. Computer Science | Oregon State University - 2025 </li>
+  <li>Teaching Credential | San Jose State University - 2019</li>
+  <li>B.S. Kinesiology | San Jose State University - 2016</li>
+</ul>
+
 
 
 
