@@ -60,7 +60,7 @@ I am an Information Systems Specialist with a background in teaching, skilled in
 </ul>
 
 
-<h4>Education and Certifications</h4>
+<h2>Education and Certifications</h2>
 <ul>
   <li>B.S. Computer Science | Oregon State University - 2025 </li>
   <li>Teaching Credential | San Jose State University - 2019</li>
