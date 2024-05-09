@@ -63,7 +63,7 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   <li>Developed an automated system to update site inventory in real-time, triggering email notifications based on stock levels.</li>
 </ul>
 
-<h3>Intranet Website resource for post orders</h3>
+<h3>Post Orders Intranet Website resource</h3>
 <h4>Technologies<h4>
   <P>HTML, CSS, Javascript</P>
 <ul>
