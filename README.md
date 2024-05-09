@@ -52,7 +52,7 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   <P>HTML, CSS, Javascript, REST API, RDBMS</P>
 <ul>
   <li>Created and implemented a badge issue/return system to help track and monitor badge activity for site employees, contractors, and vendors </li>
-  <li>Implemented automation to optimize the badge issuance/return process, significantly reducing processing time from approximately 10-15 minutes to just 1-2 minutes. Resulted in a streamlined and efficient workflow for badge issuance/return and audits</li>
+  <li>Implemented automation to optimize the badge issuance/return process, significantly reducing processing time from approximately 10-15 minutes to 1-2 minutes.</li>
 </ul>
 
 <h3>Global Badge Supply Tracking System</h3>
