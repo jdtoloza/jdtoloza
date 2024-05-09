@@ -60,7 +60,7 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   <P>iPaas software, RDBMS</P>
 <ul>
   <li>Designed and developed a ticketing system to allow admins to track badge supply requests and streamline the process of shipping out supplies.</li>
-  <li>Created an automated process updating site inventory real-time and sends email notifications depending on level of stock</li>
+  <li>Developed an automated system to update site inventory in real-time, triggering email notifications based on stock levels.</li>
 </ul>
 
 <h3>Intranet Website resource for post orders</h3>
