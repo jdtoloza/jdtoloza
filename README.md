@@ -47,13 +47,25 @@ I am an Information Systems Specialist with a background in teaching, skilled in
 </p>
 
 <h2>Projects</h2>
+<h3>Badge Issuance / Return System</h3>
+<h4>Technologies<h4>
+  <P>HTML, CSS, Javascript, REST API, RDBMS</P>
+<ul>
+  <li>Created and implemented a badge issue/return system to help track and monitor badge activity for site employees, contractors, and vendors </li>
+  <li>Implemented automation to optimize the badge issuance/return process, significantly reducing processing time from approximately 10-15 minutes to just 1-2 minutes. Resulted in a streamlined and efficient workflow for badge issuance/return and audits</li>
+</ul>
+
 <h3>Global Badge Supply Tracking System</h3>
+<h4>Technologies<h4>
+  <P>iPaas software, RDBMS</P>
 <ul>
   <li>Designed and developed a ticketing system to allow admins to track badge supply requests and streamline the process of shipping out supplies.</li>
   <li>Created an automated process updating site inventory real-time and sends email notifications depending on level of stock</li>
 </ul>
 
 <h3>Intranet Website resource for post orders</h3>
+<h4>Technologies<h4>
+  <P>HTML, CSS, Javascript</P>
 <ul>
   <li>Consolidated multiple post order resources into a main hub, enhancing and optimizing the user experience of gathering data during emergency responses and crisis management</li>
 </ul>
