@@ -13,7 +13,7 @@ I am an Information Systems Specialist with a background in teaching, skilled in
 <p>
   Languages: HTML, CSS, JavaScript, PHP, SQL, Java, VBA Excel<br>
   Frameworks: Bootstrap <br>
-  Tools & Technologies: iPaas software, REST APIs, JIRA, RDBMS, CRM
+  Tools & Technologies: iPaas software, REST APIs, JSON, JIRA, RDBMS, CRM
 </p>
 
 <h2>Work Experience</h2>
@@ -24,8 +24,8 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   <b>Duration:</b> March 2023 - Present <br>
   As an Information Systems Specialist at Securitas, I have been involved in various projects aimed at enhancing operational efficiency and security measures. Some key responsibilities and achievements include:
   <ul>
-    <li>Designed and developed an intranet website containing various layouts to enhance onboarding experience with HTML, CSS Flexbox / Grid, and Javascript.</li>
-    <li>Built automated processes and integrations with 3rd party teams to streamline user provisioning, form submissions, approval requests, and analytics with a combination of Javascript, iPaas software, REST Apis and RDBMS.</li>
+    <li>Designed and developed an intranet website containing various layouts to enhance onboarding/training experience with HTML, CSS Flexbox / Grid, and Javascript.</li>
+    <li>Built automated processes and integrations with 3rd party teams to streamline user provisioning, form submissions, approval requests, and analytics with  Javascript, iPaas software, REST Apis and RDBMS.</li>
     <li>Troubleshoot and refactored different website components, system integrations, and databases</li>
     <li>Helped pioneer the migration of all physical processes of audits, requests, and reports to a digital format, standardizing the process across the NA region.</li>
     <li>Implemented advanced excel macros to automate reports, increasing efficiency and accuracy in data analysis.</li>
