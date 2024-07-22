@@ -52,6 +52,8 @@ I am an Information Systems Specialist with a background in teaching, skilled in
   <P>HTML, CSS, Javascript, REST API, RDBMS</P>
 <ul>
   <li>Created and implemented a badge issue/return system to help track and monitor badge activity for site employees, contractors, and vendors </li>
+  <li>Designed and implemented responsive web interfaces using HTML, CSS, and JavaScript.</li>
+  <li>Utilized Bootstrap and Flexbox for creating a fluid and mobile-friendly layout for the instruction web pages.</li>
   <li>Implemented automation to optimize the badge issuance/return process, significantly reducing processing time from approximately 10-15 minutes to 1-2 minutes.</li>
 </ul>
 
@@ -67,7 +69,8 @@ I am an Information Systems Specialist with a background in teaching, skilled in
 <h4>Technologies<h4>
   <P>HTML, CSS, Javascript</P>
 <ul>
-  <li>Consolidated multiple post order resources into a main hub, enhancing and optimizing the user experience of gathering data during emergency responses and crisis management</li>
+  <li>Consolidated multiple post order resources into a main hub, optimizing the user experience of gathering data during emergency responses and crisis management </li>
+  <li>Developed a comprehensive website to aggregate and display all security resources for the organization.</li>
 </ul>
 
 
