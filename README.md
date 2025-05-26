@@ -5,7 +5,21 @@
 
 <h2>Summary</h2>
 <p>
-I am an Information Systems Specialist with a background in teaching, skilled in a variety of programming languages and tools. I am dedicated to utilizing technology to enhance the learning and user experience, ensuring it is both accessible and enjoyable. My focus lies in developing automated solutions and streamlining workflows to facilitate a smoother and effortless process.
+I'm a former K-12 teacher with a background in kinesiology, strength training, and security, now pursuing my original passion—software development. Growing up, I was the kid holed up in my room playing Runescape, World of Warcraft, and customizing MySpace pages by hacking together HTML and CSS to make it rain stars or embed images in comment boxes. That early curiosity never left me.
+
+Today, I’m a full stack developer who thrives on designing intuitive and engaging user experiences—whether for internal company tools, educational apps, or interactive interfaces in games. My teaching experience taught me how to break down complex ideas into digestible pieces, a skill I now apply to crafting user-centric software.
+
+Currently, I work as an Information Specialist for a security company, where I create system integrations, write scripts to generate reports, and build internal web tools that improve workflows and usability.
+
+I’m especially passionate about:
+
+UI/UX in games and ed tech
+
+Projects that make a real-world impact
+
+The intersection of software and environmental data science
+
+Let’s connect if you’re building something meaningful and need someone who can blend communication, creativity, and code.
 </p>
   
 
