@@ -26,8 +26,9 @@ Let’s connect if you’re building something meaningful and need someone who c
 <h2>Skills</h2>
 <p>
   Languages: HTML, CSS, JavaScript, Python, PHP, SQL, Java, VBA Excel<br>
-  Frameworks: Bootstrap <br>
-  Tools & Technologies: iPaas software, REST APIs, JSON, JIRA, RDBMS, CRM
+  Frameworks: Bootstrap, React, Express JS, Flask <br>
+  Tools & Technologies: iPaas software, REST APIs, JSON, JIRA, RDBMS, VITE
+  Architecture: MVC (Model-Viewer-Controller), Monolith, Microservices
 </p>
 
 <h2>Work Experience</h2>
