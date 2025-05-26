@@ -27,8 +27,8 @@ Let’s connect if you’re building something meaningful and need someone who c
 <p>
   Languages: HTML, CSS, JavaScript, Python, PHP, SQL, Java, VBA Excel<br>
   Frameworks: Bootstrap, React, Express JS, Flask <br>
-  Tools & Technologies: iPaas software, REST APIs, JSON, JIRA, RDBMS, VITE
-  Architecture: MVC (Model-Viewer-Controller), Monolith, Microservices
+  Tools & Technologies: iPaas software, REST APIs, JSON, JIRA, RDBMS, VITE<br>
+  Architecture: MVC (Model-Viewer-Controller), Monolith, Microservices<br>
 </p>
 
 <h2>Work Experience</h2>
