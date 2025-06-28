@@ -73,6 +73,15 @@ Let’s connect if you’re building something meaningful and need someone who c
   <li>Implemented automation to optimize the badge issuance/return process, significantly reducing processing time from approximately 10-15 minutes to 1-2 minutes.</li>
 </ul>
 
+<h3>Automated Audit & Report Logging System</h3>
+<h4>Technologies</h4>
+<p>JavaScript, iPaaS, REST API, Excel VBA</p>
+<ul>
+  <li>Converted manual audit and reporting processes into automated digital workflows using iPaaS integrations and custom scripts.</li>
+  <li>Integrated Excel macros and backend logic to generate structured reports from multiple data inputs.</li>
+  <li>Standardized reporting formats across 11+ sites, increasing consistency and reducing time spent on manual entry.</li>
+</ul>
+
 <h3>Global Badge Supply Tracking System</h3>
 <h4>Technologies<h4>
   <P>iPaas software, RDBMS</P>
