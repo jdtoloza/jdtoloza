@@ -81,12 +81,13 @@ Let’s connect if you’re building something meaningful and need someone who c
   <li>Developed an automated system to update site inventory in real-time, triggering email notifications based on stock levels.</li>
 </ul>
 
-<h3>Post Orders Intranet Website resource</h3>
-<h4>Technologies<h4>
-  <P>HTML, CSS, Javascript</P>
+<h3>Post Orders & Security Resource Hub</h3>
+<h4>Technologies</h4>
+<p>HTML, CSS, JavaScript</p>
 <ul>
-  <li>Consolidated multiple post order resources into a main hub, optimizing the user experience of gathering data during emergency responses and crisis management </li>
-  <li>Developed a comprehensive website to aggregate and display all security resources for the organization.</li>
+  <li>Built a centralized intranet website to consolidate post orders, emergency procedures, site contacts, and daily-use links for security personnel.</li>
+  <li>Optimized usability and field access by implementing a clean, mobile-friendly interface for quick data retrieval during critical incidents.</li>
+  <li>Improved onboarding and operational readiness across multiple sites by streamlining access to essential information in one accessible hub.</li>
 </ul>
 
 
