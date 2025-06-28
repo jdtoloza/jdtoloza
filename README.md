@@ -82,7 +82,7 @@ Let’s connect if you’re building something meaningful and need someone who c
   <li>Created and implemented a badge issue/return system to help track and monitor badge activity for site employees, contractors, and vendors.</li>
   <li>Designed and implemented responsive web interfaces using HTML, CSS, and JavaScript.</li>
   <li>Utilized Bootstrap and Flexbox for creating a fluid and mobile-friendly layout for the instruction web pages.</li>
-  <li>Implemented automation to optimize the badge issuance/return process, significantly reducing processing time from approximately 10–15 minutes to under 30 seconds.</li>
+  <li>Implemented automation to optimize the badge issuance/return process, significantly reducing processing time from approximately 5 minutes to under 30 seconds.</li>
 </ul>
 
 <h3>Global Guard Tour Rollout Project</h3>
