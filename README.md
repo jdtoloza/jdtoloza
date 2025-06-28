@@ -5,12 +5,11 @@
 
 <h2>Summary</h2>
 <p>
-I'm a former K-12 teacher with a background in kinesiology, strength training, and security, now pursuing my original passion—software development. Growing up, I was the kid holed up in my room playing Runescape, World of Warcraft, and customizing MySpace pages by hacking together HTML and CSS to make it rain stars or embed images in comment boxes. That early curiosity never left me.
+Third-year Computer Science student and former educator turned developer with a proven track record of building internal tools, streamlining workflows, and driving automation in enterprise environments. Currently working as an Information Systems Specialist, where I bridge technical execution and operational needs—designing systems that improve efficiency, usability, and team collaboration.
 
-Today, I’m a full stack developer who thrives on designing intuitive and engaging user experiences—whether for internal company tools, educational apps, or interactive interfaces in games. My teaching experience taught me how to break down complex ideas into digestible pieces, a skill I now apply to crafting user-centric software.
+My background in teaching shaped my ability to break down complex systems, communicate clearly with stakeholders, and build solutions that truly serve users. I thrive when I’m building practical tools, designing clean interfaces, and working on teams that value mentorship, innovation, and real-world impact.
 
-Currently, I work as an Information Specialist for a security company, where I create system integrations, write scripts to generate reports, and build internal web tools that improve workflows and usability.
-
+Now actively seeking a full stack internship or junior developer role where I can grow under experienced engineers and contribute to projects that make a difference.
 I’m especially passionate about:
 
 UI/UX in games and ed tech
