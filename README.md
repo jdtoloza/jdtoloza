@@ -45,7 +45,7 @@ Let’s connect if you’re building something meaningful and need someone who c
     <li>Developed responsive intranet layouts for onboarding and documentation using HTML, CSS Flexbox/Grid, and JavaScript, improving access to critical team resources.</li>
     <li>Migrated manual request, audit, and reporting systems to digital platforms, standardizing processes across 11+ sites in the U.S.</li>
     <li>Provided ongoing support and maintenance for software systems, mobile devices, printers, and embedded tools like badge readers—ensuring reliability across all locations.</li>
-    <li>Frequently identified and filled technical gaps left by underperforming teammates by delivering clean, functional code without relying on AI-generated solutions.</li>
+    <li>Delivered fully functional web tools by taking ownership of projects with limited initial direction or incomplete deliverables.</li>
   </ul>
 </p>
 
