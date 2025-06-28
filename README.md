@@ -63,24 +63,6 @@ Let’s connect if you’re building something meaningful and need someone who c
 </p>
 
 <h2>Projects</h2>
-<h3>Badge Issuance / Return System</h3>
-<h4>Technologies<h4>
-  <P>HTML, CSS, Javascript, REST API, RDBMS</P>
-<ul>
-  <li>Created and implemented a badge issue/return system to help track and monitor badge activity for site employees, contractors, and vendors </li>
-  <li>Designed and implemented responsive web interfaces using HTML, CSS, and JavaScript.</li>
-  <li>Utilized Bootstrap and Flexbox for creating a fluid and mobile-friendly layout for the instruction web pages.</li>
-  <li>Implemented automation to optimize the badge issuance/return process, significantly reducing processing time from approximately 10-15 minutes to 1-2 minutes.</li>
-</ul>
-
-<h3>Automated Audit & Report Logging System</h3>
-<h4>Technologies</h4>
-<p>JavaScript, iPaaS, REST API, Excel VBA</p>
-<ul>
-  <li>Converted manual audit and reporting processes into automated digital workflows using iPaaS integrations and custom scripts.</li>
-  <li>Integrated Excel macros and backend logic to generate structured reports from multiple data inputs.</li>
-  <li>Standardized reporting formats across 11+ sites, increasing consistency and reducing time spent on manual entry.</li>
-</ul>
 
 <h3>Executive Travel API Migration</h3>
 <h4>Technologies</h4>
@@ -92,6 +74,18 @@ Let’s connect if you’re building something meaningful and need someone who c
   <li>Tested and deployed endpoint connections using iPaaS software, maintaining continuity and minimizing downtime during cutover.</li>
 </ul>
 
+
+<h3>Badge Issuance / Return System</h3>
+<h4>Technologies</h4>
+<p>HTML, CSS, JavaScript, REST API, RDBMS</p>
+<ul>
+  <li>Created and implemented a badge issue/return system to help track and monitor badge activity for site employees, contractors, and vendors.</li>
+  <li>Designed and implemented responsive web interfaces using HTML, CSS, and JavaScript.</li>
+  <li>Utilized Bootstrap and Flexbox for creating a fluid and mobile-friendly layout for the instruction web pages.</li>
+  <li>Implemented automation to optimize the badge issuance/return process, significantly reducing processing time from approximately 10–15 minutes to under 30 seconds.</li>
+</ul>
+
+
 <h3>Security Operations Intranet Website</h3>
 <h4>Technologies</h4>
 <p>HTML, CSS, JavaScript</p>
@@ -99,6 +93,15 @@ Let’s connect if you’re building something meaningful and need someone who c
   <li>Built a centralized intranet website to consolidate post orders, emergency procedures, site contacts, and daily-use links for security personnel.</li>
   <li>Optimized usability and field access by implementing a clean, mobile-friendly interface for quick data retrieval during critical incidents.</li>
   <li>Improved onboarding and operational readiness across multiple sites by streamlining access to essential information in one accessible hub.</li>
+</ul>
+
+<h3>Automated Audit & Report Logging System</h3>
+<h4>Technologies</h4>
+<p>JavaScript, iPaaS, REST API, Excel VBA</p>
+<ul>
+  <li>Converted manual audit and reporting processes into automated digital workflows using iPaaS integrations and custom scripts.</li>
+  <li>Integrated Excel macros and backend logic to generate structured reports from multiple data inputs.</li>
+  <li>Standardized reporting formats across 11+ sites, increasing consistency and reducing time spent on manual entry.</li>
 </ul>
 
 
