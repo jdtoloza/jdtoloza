@@ -35,18 +35,20 @@ Let’s connect if you’re building something meaningful and need someone who c
 
 <p>
   <b>Location:</b> Mountain View, CA <br>
-  <b>Duration:</b> March 2023 - Present <br>
-  As an Information Systems Specialist at Securitas, I have been involved in various projects aimed at enhancing operational efficiency and security measures. Some key responsibilities and achievements include:
+  <b>Duration:</b> March 2023 – Present <br>
+  As an Information Systems Specialist at Securitas, I contributed to the development and rollout of internal tools and international systems to improve operational efficiency, security, and usability across multiple regions. Key responsibilities and accomplishments include:
   <ul>
-    <li>Designed and developed an intranet website containing various layouts to enhance onboarding/training experience with HTML, CSS Flexbox / Grid, and Javascript.</li>
-    <li>Built automated processes and integrations with 3rd party teams to streamline user provisioning, form submissions, approval requests, and analytics with  Javascript, iPaas software, REST Apis and RDBMS.</li>
-    <li>Troubleshoot and refactored different website components, system integrations, and databases</li>
-    <li>Helped pioneer the migration of all physical processes of audits, requests, and reports to a digital format, standardizing the process across the NA region.</li>
-    <li>Implemented advanced excel macros to automate reports, increasing efficiency and accuracy in data analysis.</li>
-    <li>Collaborated globally with teams to plan and execute the implementation of new software across all sites in the NA and APAC region.</li>
-    <li>Provided technical support and maintenance for software applications, mobile devices, computer hardware,and embedded systems (printers, card readers)</li>
+    <li>Designed and deployed internal web tools, including a badge issuance/return system and global supply tracker, reducing processing time from 10–15 minutes to under 2 minutes.</li>
+    <li>Built a centralized web-based resource hub for security personnel to access post orders, site contacts, emergency procedures, and links to daily-use systems—streamlining response and operational readiness.</li>
+    <li>Led implementation of enterprise security software across international sites in North America and APAC (including Bangalore, London, Sydney, and Tel Aviv), handling configuration, mobile provisioning, and end-user support.</li>
+    <li>Automated key workflows—such as user provisioning, approvals, and inventory updates—using JavaScript, REST APIs, iPaaS platforms, and SQL-backed RDBMS.</li>
+    <li>Developed responsive intranet layouts for onboarding and documentation using HTML, CSS Flexbox/Grid, and JavaScript, improving access to critical team resources.</li>
+    <li>Migrated manual request, audit, and reporting systems to digital platforms, standardizing processes across 11+ sites in the U.S.</li>
+    <li>Provided ongoing support and maintenance for software systems, mobile devices, printers, and embedded tools like badge readers—ensuring reliability across all locations.</li>
+    <li>Frequently identified and filled technical gaps left by underperforming teammates by delivering clean, functional code without relying on AI-generated solutions.</li>
   </ul>
 </p>
+
 <h3>Teacher at Jefferson Union High School</h3>
 <p>
   <b>Location:</b> Daly City, CA <br>
