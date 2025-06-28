@@ -85,6 +85,15 @@ Let’s connect if you’re building something meaningful and need someone who c
   <li>Implemented automation to optimize the badge issuance/return process, significantly reducing processing time from approximately 10–15 minutes to under 30 seconds.</li>
 </ul>
 
+<h3>Global Guard Tour Rollout Project</h3>
+<h4>Technologies</h4>
+<p>Project Management, iPaaS, Mobile Apps, Excel, REST APIs</p>
+<ul>
+  <li>Led the planning and execution of a digital guard tour system across North America and APAC sites (including Tel Aviv, Bangalore, Sydney, and London).</li>
+  <li>Coordinated rollout requirements with stakeholders across time zones and ensured consistent implementation across regional policies and operational teams.</li>
+  <li>Created SOPs, training documents, and implementation guides to ensure smooth onboarding and long-term maintainability.</li>
+  <li>Worked with vendor platforms to integrate route logs, checkpoint scans, and incident tracking into existing reporting systems.</li>
+</ul>
 
 <h3>Security Operations Intranet Website</h3>
 <h4>Technologies</h4>
