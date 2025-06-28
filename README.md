@@ -81,7 +81,7 @@ Let’s connect if you’re building something meaningful and need someone who c
   <li>Developed an automated system to update site inventory in real-time, triggering email notifications based on stock levels.</li>
 </ul>
 
-<h3>Post Orders & Security Resource Hub</h3>
+<h3>Security Operations Intranet Website</h3>
 <h4>Technologies</h4>
 <p>HTML, CSS, JavaScript</p>
 <ul>
