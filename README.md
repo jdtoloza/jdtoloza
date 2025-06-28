@@ -41,7 +41,7 @@ Let’s connect if you’re building something meaningful and need someone who c
     <li>Designed and deployed internal web tools, including a badge issuance/return system and global supply tracker, reducing processing time to under 30 seconds or less.</li>
     <li>Built a centralized web-based resource hub for security personnel to access post orders, site contacts, emergency procedures, and links to daily-use systems—streamlining response and operational readiness.</li>
     <li>Led implementation of enterprise security software across international sites in North America and APAC (including Bangalore, London, Sydney, and Tel Aviv), handling configuration, mobile provisioning, and end-user support.</li>
-    <li>Automated key workflows—such as user provisioning, approvals, and inventory updates—using JavaScript, REST APIs, iPaaS platforms, and SQL-backed RDBMS.</li>
+    <li>Automated key workflows—such as user provisioning, approvals, and inventory updates—using JavaScript, REST APIs, and iPaaS platforms</li>
     <li>Developed responsive intranet layouts for onboarding and documentation using HTML, CSS Flexbox/Grid, and JavaScript, improving access to critical team resources.</li>
     <li>Migrated manual request, audit, and reporting systems to digital platforms, standardizing processes across 11+ sites in the U.S.</li>
     <li>Provided ongoing support and maintenance for software systems, mobile devices, printers, and embedded tools like badge readers—ensuring reliability across all locations.</li>
