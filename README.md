@@ -38,7 +38,7 @@ Let’s connect if you’re building something meaningful and need someone who c
   <b>Duration:</b> March 2023 – Present <br>
   As an Information Systems Specialist at Securitas, I contributed to the development and rollout of internal tools and international systems to improve operational efficiency, security, and usability across multiple regions. Key responsibilities and accomplishments include:
   <ul>
-    <li>Designed and deployed internal web tools, including a badge issuance/return system and global supply tracker, reducing processing time from 10–15 minutes to under 2 minutes.</li>
+    <li>Designed and deployed internal web tools, including a badge issuance/return system and global supply tracker, reducing processing time to under 30 seconds or less.</li>
     <li>Built a centralized web-based resource hub for security personnel to access post orders, site contacts, emergency procedures, and links to daily-use systems—streamlining response and operational readiness.</li>
     <li>Led implementation of enterprise security software across international sites in North America and APAC (including Bangalore, London, Sydney, and Tel Aviv), handling configuration, mobile provisioning, and end-user support.</li>
     <li>Automated key workflows—such as user provisioning, approvals, and inventory updates—using JavaScript, REST APIs, iPaaS platforms, and SQL-backed RDBMS.</li>
