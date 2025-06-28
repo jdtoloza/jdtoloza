@@ -82,12 +82,14 @@ Let’s connect if you’re building something meaningful and need someone who c
   <li>Standardized reporting formats across 11+ sites, increasing consistency and reducing time spent on manual entry.</li>
 </ul>
 
-<h3>Global Badge Supply Tracking System</h3>
-<h4>Technologies<h4>
-  <P>iPaas software, RDBMS</P>
+<h3>Executive Travel API Migration</h3>
+<h4>Technologies</h4>
+<p>REST APIs, JSON, iPaaS, Everbridge API, Anvil API</p>
 <ul>
-  <li>Designed and developed a ticketing system to allow admins to track badge supply requests and streamline the process of shipping out supplies.</li>
-  <li>Developed an automated system to update site inventory in real-time, triggering email notifications based on stock levels.</li>
+  <li>Led the migration of enterprise-level travel data pipelines from Anvil API to Everbridge API to enhance executive travel tracking and security operations.</li>
+  <li>Mapped and transformed JSON payloads to support itinerary data including passenger names, flight legs, hotel stays, and travel timelines.</li>
+  <li>Ensured real-time syncing of itinerary updates across systems to maintain visibility during global travel and emergencies.</li>
+  <li>Tested and deployed endpoint connections using iPaaS software, maintaining continuity and minimizing downtime during cutover.</li>
 </ul>
 
 <h3>Security Operations Intranet Website</h3>
